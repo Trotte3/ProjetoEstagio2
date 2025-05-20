@@ -14,7 +14,7 @@ Este projeto foi feito utilizando PHP 8, Javascript e a versão mais recente do 
 - Crie uma tabela com o nome produto com 6 colunas e outra chamada usuario com 3 colunas e leia abaixo a descrição do banco de dados e siga passo a passo do que estiver descrito ou cole na aba sql os dados do banco de dados e não esqueça de apagar as partes escritas com intuito de organização como : "banco de dados" "usuário" "produto".
 
 - Baixe o zip da pasta Crud e crie uma pasta "ProjetoEstagio2"coloque-a dentro desta pasta e utilize o winrar para descomprimir a 
-pasta caso necessário.
+pasta caso necessário ou utilize do git.
 
 - Abra o explorar de arquivos, encontre o local que foi instalado o xampp,  va para pasta xampp, depois htdocs e coloque a pasta ProjetoEstagio2.,
 
